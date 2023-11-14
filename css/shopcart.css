@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700;800&family=Poppins:wght@200;300;400&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.maintab{
+    background-color: lightgrey;
+}
+
+.nav-link{
+    font-size: 19px;
+}
+.maintab{
+    justify-content: center;
+}
+
+.carttile{
+    border-bottom: 2px solid;
+}
+
+
+.last{
+    font-size: 16px;
+}
+#help{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+#helplink{
+    color: #fff;
+    text-decoration: none;
+}
+#helplink:hover{
+    color: #cf842e;
+
+}
+
+.paymentbox{
+    border: 1px solid rgb(146, 163, 186);
+    padding: 20px;
+    border-radius: 9px;
+    background-color: lightsteelblue;
+    box-shadow: 1px -1px 12px black;
+}
+
+.paypal{
+    border: 1px solid rgb(146, 163, 186);
+    padding: 20px;
+    border-radius: 9px;
+    background-color: lightsteelblue;
+    box-shadow: 1px -1px 12px black;
+}
+
+.cash{
+    border: 1px solid rgb(146, 163, 186);
+    padding: 20px;
+    border-radius: 9px;
+    background-color: lightsteelblue;
+    box-shadow: 1px -1px 12px black;
+}
+.cash .col-4 i{
+    font-size: 30px;
+    color: #120c84;
+    
+}
+
+.heed{
+    font-weight: bolder;
+    color: #010a2c;
+    text-shadow: 1px 1px 9px rgb(132, 2, 2);
+    font-size: 32px;
+}
+
+h4{
+    font-weight: bold;
+}
+
